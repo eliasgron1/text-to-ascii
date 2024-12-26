@@ -1,0 +1,1 @@
+install with $ npm install text-to-ascii

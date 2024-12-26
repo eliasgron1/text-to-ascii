@@ -1,0 +1,12 @@
+{
+  "name": "text-to-ascii",
+  "version": "1.0.1",
+  "description": "Simple package for converting any string to ascii code, or any length of ascii codes to a readable string.",
+  "main": "index.js",
+  "keywords": ["ascii", "string to ascii", "ascii to string","ascii codes", "ascii parser", "parse", "test to ascii", "ascii to text", "text"],
+  "scripts": {
+    "test": "npx jest asciiConversion.test.js"
+  },
+  "author": "Elias Grönholm",
+  "license": "ISC"
+}
